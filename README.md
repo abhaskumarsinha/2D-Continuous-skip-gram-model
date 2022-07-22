@@ -1,4 +1,4 @@
-# 2D-Continuousskip-gramm-model
+# 2D-Continuous Skip-Gramm-Model
 A word2vec embedding, called Continuous Skip Gram Model encodes each word to a Vector depending on how closely they are related or how often they are used along.
 
 ## Dataset
